@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Reviving 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... YT Domopremo
+- 📫 Left Is Right, Right Is Wrong.
 
 <!---
 Domopremo/Domopremo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
